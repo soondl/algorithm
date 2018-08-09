@@ -1,3 +1,8 @@
+///////////////////////////////////////////////////
+// * date : 2018/08/09                           //
+// * URL : https://www.acmicpc.net/problem/14500 //
+///////////////////////////////////////////////////
+
 #include <iostream> 
 #include <algorithm> 
 using namespace std;
